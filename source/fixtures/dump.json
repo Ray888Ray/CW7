@@ -1,0 +1,292 @@
+[
+{
+  "model": "webapp.pull",
+  "pk": 7,
+  "fields": {
+    "survey": "1",
+    "time": "2022-12-10T10:08:28.177Z"
+  }
+},
+{
+  "model": "webapp.pull",
+  "pk": 8,
+  "fields": {
+    "survey": "2",
+    "time": "2022-12-10T10:08:32.649Z"
+  }
+},
+{
+  "model": "webapp.pull",
+  "pk": 9,
+  "fields": {
+    "survey": "3",
+    "time": "2022-12-10T10:08:35.712Z"
+  }
+},
+{
+  "model": "webapp.pull",
+  "pk": 11,
+  "fields": {
+    "survey": "4",
+    "time": "2022-12-10T12:05:17.143Z"
+  }
+},
+{
+  "model": "webapp.pull",
+  "pk": 12,
+  "fields": {
+    "survey": "5",
+    "time": "2022-12-10T12:05:28.705Z"
+  }
+},
+{
+  "model": "webapp.pull",
+  "pk": 13,
+  "fields": {
+    "survey": "6",
+    "time": "2022-12-10T12:05:34.061Z"
+  }
+},
+{
+  "model": "webapp.pull",
+  "pk": 14,
+  "fields": {
+    "survey": "7",
+    "time": "2022-12-10T12:05:40.021Z"
+  }
+},
+{
+  "model": "webapp.choice",
+  "pk": 14,
+  "fields": {
+    "option": "11",
+    "pull": 7
+  }
+},
+{
+  "model": "webapp.choice",
+  "pk": 15,
+  "fields": {
+    "option": "23",
+    "pull": 7
+  }
+},
+{
+  "model": "webapp.choice",
+  "pk": 16,
+  "fields": {
+    "option": "56",
+    "pull": 9
+  }
+},
+{
+  "model": "webapp.choice",
+  "pk": 17,
+  "fields": {
+    "option": "1211",
+    "pull": 7
+  }
+},
+{
+  "model": "webapp.choice",
+  "pk": 19,
+  "fields": {
+    "option": "dqweqweqw",
+    "pull": 8
+  }
+},
+{
+  "model": "webapp.choice",
+  "pk": 20,
+  "fields": {
+    "option": "1",
+    "pull": 11
+  }
+},
+{
+  "model": "webapp.choice",
+  "pk": 21,
+  "fields": {
+    "option": "2",
+    "pull": 11
+  }
+},
+{
+  "model": "webapp.choice",
+  "pk": 22,
+  "fields": {
+    "option": "3",
+    "pull": 11
+  }
+},
+{
+  "model": "webapp.choice",
+  "pk": 23,
+  "fields": {
+    "option": "4",
+    "pull": 11
+  }
+},
+{
+  "model": "webapp.choice",
+  "pk": 29,
+  "fields": {
+    "option": "2",
+    "pull": 11
+  }
+},
+{
+  "model": "webapp.choice",
+  "pk": 30,
+  "fields": {
+    "option": "3",
+    "pull": 11
+  }
+},
+{
+  "model": "webapp.choice",
+  "pk": 31,
+  "fields": {
+    "option": "4",
+    "pull": 11
+  }
+},
+{
+  "model": "webapp.choice",
+  "pk": 32,
+  "fields": {
+    "option": "1",
+    "pull": 11
+  }
+},
+{
+  "model": "webapp.choice",
+  "pk": 33,
+  "fields": {
+    "option": "2",
+    "pull": 11
+  }
+},
+{
+  "model": "webapp.choice",
+  "pk": 34,
+  "fields": {
+    "option": "3",
+    "pull": 11
+  }
+},
+{
+  "model": "webapp.choice",
+  "pk": 36,
+  "fields": {
+    "option": "1",
+    "pull": 12
+  }
+},
+{
+  "model": "webapp.choice",
+  "pk": 37,
+  "fields": {
+    "option": "2",
+    "pull": 12
+  }
+},
+{
+  "model": "webapp.choice",
+  "pk": 38,
+  "fields": {
+    "option": "3",
+    "pull": 12
+  }
+},
+{
+  "model": "webapp.choice",
+  "pk": 39,
+  "fields": {
+    "option": "4",
+    "pull": 12
+  }
+},
+{
+  "model": "webapp.choice",
+  "pk": 40,
+  "fields": {
+    "option": "1",
+    "pull": 13
+  }
+},
+{
+  "model": "webapp.choice",
+  "pk": 41,
+  "fields": {
+    "option": "2",
+    "pull": 13
+  }
+},
+{
+  "model": "webapp.choice",
+  "pk": 42,
+  "fields": {
+    "option": "3",
+    "pull": 13
+  }
+},
+{
+  "model": "webapp.choice",
+  "pk": 43,
+  "fields": {
+    "option": "4",
+    "pull": 13
+  }
+},
+{
+  "model": "webapp.choice",
+  "pk": 44,
+  "fields": {
+    "option": "1",
+    "pull": 14
+  }
+},
+{
+  "model": "webapp.choice",
+  "pk": 45,
+  "fields": {
+    "option": "2",
+    "pull": 14
+  }
+},
+{
+  "model": "webapp.choice",
+  "pk": 46,
+  "fields": {
+    "option": "3",
+    "pull": 14
+  }
+},
+{
+  "model": "webapp.choice",
+  "pk": 47,
+  "fields": {
+    "option": "4",
+    "pull": 14
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$390000$qrzN0IozVBX0RJpHhgaXdJ$MgNg1oy2qejIMbI1SkofY8WkTVI4jWA0pOPi1mpGR+w=",
+    "last_login": "2022-12-09T18:14:18.977Z",
+    "is_superuser": true,
+    "username": "admin",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2022-12-09T18:11:38.144Z",
+    "groups": [],
+    "user_permissions": []
+  }
+}
+]
