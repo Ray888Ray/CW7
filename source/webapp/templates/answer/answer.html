@@ -1,0 +1,9 @@
+{% extends 'base.html' %}
+{% block content %}
+{% csrf_token %}
+    <h1>Answers:{{ answer.pull_fk }}</h1>
+            <hr>
+        <form>{% include 'partial/form.html'  with button_text='Send' %}</form>
+        <br>
+        {% if not forloop.last %}<br><br> {% endif %}
+{% endblock %}
